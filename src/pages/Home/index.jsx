@@ -78,6 +78,34 @@ class Home extends React.Component{
                     </Drawer>
                 </header>
                 <section>
+                <div id="p-18888" className="has-image page-part opt-content-position-oo opt-line-above no-opt-margin-sides page-part-image-left-60 page-part-image-side page-part-image-side-60 page-part-image-left in-view">
+	
+                    <div className="page-part--inner">
+
+                        
+                    <div className="page-part--image has-link">
+
+                    <div><img src="https://www.graff.cn/wp-content/uploads/2017/05/a-lady-wearing-unique-yellow-diamond-Graff-jewellery-2000x1333.jpg" className="lazy lazy-loaded" alt="" /></div>
+                    </div>
+
+                        <div className="page-part--body">
+
+                            
+                                <div className="page-part--content in-view">
+
+                                    <h4><a href="https://www.graff.cn/zh-hans/unique/high-jewellery/">独特珠宝</a></h4>
+                                    <h2><a href="https://www.graff.cn/zh-hans/unique/high-jewellery/">高级珠宝</a></h2>
+                                    <p>逐一欣赏格拉夫的非凡珠宝，见证珍罕顶级宝石的醉人魅力。</p>
+                                    <p><a className="button button-primary" href="https://www.graff.cn/zh-hans/unique/high-jewellery/">探索更多</a></p>
+                                                    
+                                                            
+                                </div>
+
+                            
+                        </div>
+
+                    </div>
+                    </div>
                 </section>
                 <footer>
                 </footer>
